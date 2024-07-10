@@ -285,6 +285,8 @@
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 8px;   
     background: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 500;
    
 }
 .input-content input[type="submit"]{
@@ -293,14 +295,16 @@
     border-radius: 8px;
     background: rgb(255, 255, 255);
     border: 0;
+    font-size: 18px;
+    font-weight: 700;
 }
 .input-content{
     display: flex;
     gap: 30px;
     margin: 0 auto;
     margin-top:-50px;
-    margin-left: 120px;
-    margin-left: 100px;
+    margin-left: 170px;
+    
 }
 .footer-container{
      width: 1800px;
